@@ -1,4 +1,18 @@
 {
+  "Horse Defense (24000)": {
+    "spear": 0,
+    "sword": 0,
+    "axe": 0,
+    "archer": 0,
+    "spy": 1500,
+    "light": 0,
+    "marcher": 0,
+    "heavy": 3500,
+    "ram": 0,
+    "catapult": 0,
+    "archerOnly": false,
+    "buildType": "defense"
+  },
   "Watchtower lvl 20 (24000)": {
     "spear": 2417,
     "sword": 2418,
@@ -52,20 +66,6 @@
     "heavy": 1000,
     "ram": 6,
     "catapult": 140,
-    "archerOnly": false,
-    "buildType": "defense"
-  },
-  "Full CP Village (24000)": {
-    "spear": 0,
-    "sword": 0,
-    "axe": 0,
-    "archer": 0,
-    "spy": 0,
-    "light": 0,
-    "marcher": 0,
-    "heavy": 3260,
-    "ram": 0,
-    "catapult": 0,
     "archerOnly": false,
     "buildType": "defense"
   },
